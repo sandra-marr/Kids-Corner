@@ -36,10 +36,10 @@ Here is a list of the APIs:
 
 ## Team Cool-Kidz:
 
-* Donna Crawford
-* Gunjan Bhargava
-* Rex Yu
-* Sandy Marr
+* Donna Crawford, crawford0774@gmail.com 
+* Gunjan Bhargava, gunjanbhargava2021@gmail.com
+* Rex Yu, yu19910513@gmail.com
+* Sandy Marr, srpeters44@gmail.com
 
 ## Deployed Link
 https://sandra-marr.github.io/Project-1/
