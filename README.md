@@ -42,7 +42,7 @@ Here is a list of the APIs:
 * Sandy Marr, srpeters44@gmail.com
 
 ## Deployed Link
-https://sandra-marr.github.io/Project-1/
+https://sandra-marr.github.io/Kids-Corner/
 
 ## MIT License
 
